@@ -1,0 +1,60 @@
+*{
+	margin:0;
+	padding:0;
+}
+.phone{
+	width:320px;
+	height:600px;
+	border:2px #000 solid;
+	margin:30px auto;
+	border-radius: 50px;
+}
+.top{
+	width:240px;
+	height:30px;
+	/*background:red;*/
+	margin:20px auto;
+}
+.screen{
+	width:300px;
+	height:430px;
+	background-image: url(screen.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	margin:0 auto;
+}
+.home{
+	width:60px;
+	height:60px;
+	border:2px solid #000;
+	border-radius: 50%;
+	margin:5px auto 0;
+}
+.voice{
+	width:150px;
+	height:14px;
+	border:1px solid #000;
+	border-radius:13px;
+	float:left;
+	margin-top:8px; 
+	margin-left:28px;
+}
+.camera{
+	width:8px;
+	height:8px;
+	/*background:#000;*/
+	border:1px solid #000;
+	border-radius:50%;
+	float:left;
+	margin-top:11px;
+	margin-left:8px;
+}
+.light{
+	width:12px;
+	height:12px;
+	/*background:#000;*/
+	border:1px solid #000;
+	border-radius:50%;
+	float:left;
+	margin:10px 0 0 10px;
+}
